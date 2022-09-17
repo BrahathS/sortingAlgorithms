@@ -5,5 +5,6 @@ The comparison operator is used to decide the new order of elements in the respe
  - 1 bubble sort 
  - 2 selection sort 
  - 3 insertion sort 
+ I have added other sorting algorithms 
  - Hybrid Sort 
  - Mountain Sort
